@@ -1,2 +1,2 @@
 # UberProject
-bootstrap+sass
+bootstrap+sass+adaptiv
